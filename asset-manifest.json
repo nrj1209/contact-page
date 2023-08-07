@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/contact-page/static/css/main.10b8c4fd.css",
+    "main.js": "/contact-page/static/js/main.4c944633.js",
+    "static/media/sanfranscisco.png": "/contact-page/static/media/sanfranscisco.1f81d3a5d731ebff83e7.png",
+    "static/media/mumbai.png": "/contact-page/static/media/mumbai.86e2c28f0f86f0f31aa9.png",
+    "static/media/kolkata.png": "/contact-page/static/media/kolkata.83ac3ea0b54083799b68.png",
+    "static/media/img1.jpeg": "/contact-page/static/media/img1.724885cd0669bd96397a.jpeg",
+    "static/media/Angello.ttf": "/contact-page/static/media/Angello.974e197d55330b705ce1.ttf",
+    "static/media/skywalks.ttf": "/contact-page/static/media/skywalks.26570f1d46ba1e1aa786.ttf",
+    "static/media/nav-icon.svg": "/contact-page/static/media/nav-icon.bdcbb4b5ccf2679d65cebd36077f9a6a.svg",
+    "static/media/close.svg": "/contact-page/static/media/close.3ad56a0a71b779ab557177a47bd91fb2.svg",
+    "index.html": "/contact-page/index.html",
+    "static/media/arrow-down.svg": "/contact-page/static/media/arrow-down.c6a63fd268f7ef433544eedf31f972cc.svg",
+    "main.10b8c4fd.css.map": "/contact-page/static/css/main.10b8c4fd.css.map",
+    "main.4c944633.js.map": "/contact-page/static/js/main.4c944633.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10b8c4fd.css",
+    "static/js/main.4c944633.js"
+  ]
+}
